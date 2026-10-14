@@ -4,7 +4,14 @@ This is an online Caro (gomoku) game, still in planning: there is no code, tech 
 
 ## Commits
 
-Commit messages follow `<operation>: <general content>`, e.g. `docs: rewrite the architecture`.
+Commit messages follow `<operation>: <general content>`, e.g. `docs: rewrite the architecture`. Allowed operations:
+
+- `feat`: new user-facing behavior
+- `fix`: bug fix
+- `refactor`: code change with no behavior change
+- `test`: tests only
+- `docs`: docs, ADRs, glossary, AGENTS.md
+- `chore`: tooling, dependencies, config, CI
 
 ## Agent skills
 
