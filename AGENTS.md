@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-This is an online Caro (gomoku) game, still in planning: there is no code, tech stack, or build/test command yet. **In addition, this project is developed with Coding Agents.**
+This is an online Caro (gomoku) game, still in planning: there is no code, tech stack, or build/test command yet.
 
 ## Commits
 
