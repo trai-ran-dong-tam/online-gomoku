@@ -1,0 +1,13 @@
+.DS_Store
+
+.idea/
+.vscode/
+
+.env
+.env.*
+!.env.example
+
+.agents
+.claude
+
+skills-lock.json
