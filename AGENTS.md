@@ -13,6 +13,10 @@ Commit messages follow `<operation>: <general content>`, e.g. `docs: rewrite the
 - `docs`: docs, ADRs, glossary, AGENTS.md
 - `chore`: tooling, dependencies, config, CI
 
+## Merging
+
+Every change reaches `main` through a PR: rebase its branch onto `main`, then squash and merge, using the commit format above as the squash subject.
+
 ## Agent skills
 
 ### Issue tracker
